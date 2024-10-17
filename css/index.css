@@ -10,14 +10,13 @@ h1, h2, h3 , h4, h5, h6
 p {
   font-family: 'Jura', sans-serif;
 }
-/
+
 
 /* General */
 .customNav {
   position: fixed;
   width: 100%;
-  background: url("../images/transparency.png");
-  background-color: transparent !important;
+  background: url("../images/transparency.png") !important;
   background-size: cover;
   z-index: 10;
 }
